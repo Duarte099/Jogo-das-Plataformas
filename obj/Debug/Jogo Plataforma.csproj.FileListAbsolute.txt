@@ -1,0 +1,44 @@
+C:\Users\Duarte Marques\Documents\Jogo Plataforma\bin\Debug\Jogo Plataforma.exe.config
+C:\Users\Duarte Marques\Documents\Jogo Plataforma\bin\Debug\Jogo Plataforma.exe
+C:\Users\Duarte Marques\Documents\Jogo Plataforma\bin\Debug\Jogo Plataforma.pdb
+C:\Users\Duarte Marques\Documents\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.AssemblyReference.cache
+C:\Users\Duarte Marques\Documents\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Form1.resources
+C:\Users\Duarte Marques\Documents\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Properties.Resources.resources
+C:\Users\Duarte Marques\Documents\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.GenerateResource.cache
+C:\Users\Duarte Marques\Documents\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.CoreCompileInputs.cache
+C:\Users\Duarte Marques\Documents\Jogo Plataforma\obj\Debug\Jogo Plataforma.exe
+C:\Users\Duarte Marques\Documents\Jogo Plataforma\obj\Debug\Jogo Plataforma.pdb
+C:\Users\Duarte Marques\Documents\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Form2.resources
+C:\Users\duart\OneDrive\Documentos\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.AssemblyReference.cache
+C:\Users\duart\OneDrive\Documentos\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Form1.resources
+C:\Users\duart\OneDrive\Documentos\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Form2.resources
+C:\Users\duart\OneDrive\Documentos\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Properties.Resources.resources
+C:\Users\duart\OneDrive\Documentos\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.GenerateResource.cache
+C:\Users\duart\OneDrive\Documentos\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Documentos\Jogo Plataforma\obj\Debug\Jogo Plataforma.exe
+C:\Users\duart\OneDrive\Documentos\Jogo Plataforma\obj\Debug\Jogo Plataforma.pdb
+C:\Users\duart\OneDrive\Documentos\Jogo Plataforma\bin\Debug\Jogo Plataforma.exe.config
+C:\Users\duart\OneDrive\Documentos\Jogo Plataforma\bin\Debug\Jogo Plataforma.exe
+C:\Users\duart\OneDrive\Documentos\Jogo Plataforma\bin\Debug\Jogo Plataforma.pdb
+C:\Users\14395\Documents\Jogo Plataforma\bin\Debug\Jogo Plataforma.exe.config
+C:\Users\14395\Documents\Jogo Plataforma\bin\Debug\Jogo Plataforma.exe
+C:\Users\14395\Documents\Jogo Plataforma\bin\Debug\Jogo Plataforma.pdb
+C:\Users\14395\Documents\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.AssemblyReference.cache
+C:\Users\14395\Documents\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Form1.resources
+C:\Users\14395\Documents\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Form2.resources
+C:\Users\14395\Documents\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Properties.Resources.resources
+C:\Users\14395\Documents\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.GenerateResource.cache
+C:\Users\14395\Documents\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.CoreCompileInputs.cache
+C:\Users\14395\Documents\Jogo Plataforma\obj\Debug\Jogo Plataforma.exe
+C:\Users\14395\Documents\Jogo Plataforma\obj\Debug\Jogo Plataforma.pdb
+C:\Users\Duarte\Downloads\Jogo Plataforma\Jogo Plataforma\bin\Debug\Jogo Plataforma.exe.config
+C:\Users\Duarte\Downloads\Jogo Plataforma\Jogo Plataforma\bin\Debug\Jogo Plataforma.exe
+C:\Users\Duarte\Downloads\Jogo Plataforma\Jogo Plataforma\bin\Debug\Jogo Plataforma.pdb
+C:\Users\Duarte\Downloads\Jogo Plataforma\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.AssemblyReference.cache
+C:\Users\Duarte\Downloads\Jogo Plataforma\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Form1.resources
+C:\Users\Duarte\Downloads\Jogo Plataforma\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Form2.resources
+C:\Users\Duarte\Downloads\Jogo Plataforma\Jogo Plataforma\obj\Debug\Jogo_Plataforma.Properties.Resources.resources
+C:\Users\Duarte\Downloads\Jogo Plataforma\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.GenerateResource.cache
+C:\Users\Duarte\Downloads\Jogo Plataforma\Jogo Plataforma\obj\Debug\Jogo Plataforma.csproj.CoreCompileInputs.cache
+C:\Users\Duarte\Downloads\Jogo Plataforma\Jogo Plataforma\obj\Debug\Jogo Plataforma.exe
+C:\Users\Duarte\Downloads\Jogo Plataforma\Jogo Plataforma\obj\Debug\Jogo Plataforma.pdb
